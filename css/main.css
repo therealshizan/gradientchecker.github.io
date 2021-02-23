@@ -20,7 +20,7 @@ body{
     padding: 2rem;
     box-shadow: 5px 5px 10px 0px rgb(22 22 22 / 70%);
     border-radius: 5px;
-    height: auto;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     align-items: center;
